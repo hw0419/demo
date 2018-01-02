@@ -1,8 +1,4 @@
-/.project
-<<<<<<< HEAD
-/target/
 /.classpath
+/.project
 /.settings/
-=======
-
->>>>>>> refs/remotes/origin/master
+/target/
