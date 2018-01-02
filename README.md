@@ -1,7 +1,4 @@
 # demo
-<<<<<<< HEAD
-#lqc 
-=======
 
 # 静夜诗
 #     郭敬明
@@ -11,4 +8,3 @@
 # 低头思故乡
 
 #huangwei
->>>>>>> refs/remotes/origin/master
