@@ -1,7 +1,5 @@
 # demo
 
-#jfskajf9999_lsc
-
 # 静夜诗
 #     郭敬明
 # 床前明月光
@@ -10,6 +8,3 @@
 # 低头思故乡
 
 #huangwei
-# demo
-
-
